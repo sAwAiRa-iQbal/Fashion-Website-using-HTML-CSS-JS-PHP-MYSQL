@@ -52,39 +52,6 @@ project-root/
 
 ---
 
-### ✅ **Version 2: Friendly for Student Submission or Portfolio**
-
-```markdown
-# TrendOrbit – PHP-Based Fashion Website
-
-Welcome to **TrendOrbit**, a fashion shopping site built with HTML, CSS, JavaScript, PHP, and MySQL. It features a user-friendly shopping interface and a simple admin dashboard to manage products.
-
-## 🎯 Project Highlights
-
-- Stylish homepage and product categories
-- Add to cart and checkout options
-- User login/register system
-- Admin panel to add/edit/delete products
-- Product images stored and managed in folders
-- Neatly organized code using PHP includes (header, footer)
-
-## 💻 Tech Used
-
-- PHP + MySQL for backend
-- HTML + CSS + JavaScript for frontend
-- XAMPP/WAMP for local testing
-- Admin CRUD operations
-
-## 📂 What’s Inside
-
-- `index.php` – Main page showing products
-- `registerN.php` / `loginN.php` – Sign up and login
-- `add_to_cart.php` / `checkout.php` – Cart and payment logic
-- `adminpannel/` – Admin-only area to manage items
-- `productImg/` – Image uploads folder
-- `assets/` – CSS & JS files
-- `db_connect.php` – DB connection file
-
 ## ⚙️ How to Run
 
 1. Install XAMPP/WAMP
